@@ -1,4 +1,4 @@
-# Hi there, I'm TravisBubb! 👋
+# Hi there, I'm Travis Bubb! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TravisBubb&style=flat-square)
 
