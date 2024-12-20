@@ -29,4 +29,4 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/travisbubb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=Travis Bubb)](https://www.linkedin.com/in/travisbubb)
