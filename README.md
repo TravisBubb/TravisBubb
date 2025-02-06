@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on a variety of projects and learning new technologies.
 
-- 🌱 I’m currently learning Go and React.
+- 🌱 I’m currently learning Go, Rust, and React.
 - 👯 I’m looking to collaborate on all kinds of projects including AI/ML, web services, embedded, and more.
 
 ## 🛠️ Languages and Tools
