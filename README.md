@@ -15,18 +15,6 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
 
-## 📊 GitHub Stats
-
-![TravisBubb's GitHub stats](https://github-readme-stats.vercel.app/api?username=TravisBubb&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TravisBubb&theme=radical)
-
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TravisBubb&layout=compact&theme=radical)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Travis%20Bubb-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/travisbubb)
