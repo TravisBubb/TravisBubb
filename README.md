@@ -22,7 +22,7 @@ I’m a backend engineer with a deep passion for building robust, scalable syste
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TravisBubb&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TravisBubb&layout=compact&exclude_repo=dev-portfolio&theme=radical)
 
 ## 📊 GitHub Stats
 
