@@ -4,15 +4,13 @@
 
 ## 🚀 About Me
 
-I’m a backend engineer with a deep passion for building robust, scalable systems. I specialize in systems programming, distributed systems, and AI-driven backend solutions. Currently, I’m diving deep into Rust and C, developing both personal and open-source projects related to databases, operating systems, and performance optimization. I enjoy taking on complex problems and turning them into scalable, elegant solutions.
+I’m a backend engineer with a deep passion for building robust, scalable systems. I specialize in systems programming, distributed systems, and AI-driven backend solutions. Currently, I’m diving deep into Rust and C, developing both personal and open-source projects related to databases, operating systems, and performance optimization. I enjoy taking on complex problems and turning them into efficient, elegant solutions.
 
-🌱 **Currently working on**: Building my own operating system, AetherOS, in C. I’m also developing a key-value store in Rust and working toward a distributed vector database.
+🌱 **Currently working on**: Building my own operating system, AetherOS, in C. I’m also developing a key-value store in C++ and working towards my own vector database that supports efficient K-NN searching.
 
-💻 **Technologies I'm exploring**: Rust, C, AI infrastructure, high-performance computing, and distributed systems.
+💻 **Technologies I'm exploring**: Rust, C, C++, distributed systems, operating systems, high-performance computing.
 
-🌐 **Portfolio project**: Developing a church management SaaS, Worshiply, with an emphasis on simplicity, affordability, and lightweight design.
-
-🎯 **Long-term goals**: Specializing in systems programming, distributed systems, and AI infrastructure while building side projects that push my technical boundaries.
+🎯 **Long-term goals**: Specializing in systems programmingm, embedded development, distributed systems, and AI infrastructure while building side projects that push my technical boundaries.
 
 ## 🛠️ Languages and Tools
 
