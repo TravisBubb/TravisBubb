@@ -10,7 +10,7 @@ I’m a backend engineer with a deep passion for building robust, scalable syste
 
 💻 **Technologies I'm exploring**: Rust, C, C++, distributed systems, operating systems, high-performance computing.
 
-🎯 **Long-term goals**: Specializing in systems programmingm, embedded development, distributed systems, and AI infrastructure while building side projects that push my technical boundaries.
+🎯 **Long-term goals**: Specializing in systems programming, embedded development, distributed systems, and AI infrastructure while building side projects that push my technical boundaries.
 
 ## 🛠️ Languages and Tools
 
