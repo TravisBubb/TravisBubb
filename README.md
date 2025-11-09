@@ -8,13 +8,9 @@ Currently developing a **secure LoRa communications stack** for the ESP-32-based
 
 ## Projects
 
-### [sx126x-driver](https://github.com/travisbubb/sx126x-driver)
-A platform-agnostic driver for SX126x-class LoRa radios with a modular HAL/Core design for portability across ESP32, STM32, and other MCUs.  
-> *C · FreeRTOS · ESP-IDF · Embedded Systems Design*
-
 ### [secure-comms-prototype](https://github.com/travisbubb/secure-comms-prototype)
 A secure peer-to-peer communication stack built on LoRa radios, with a layered architecture spanning transport, protocol, and encryption.
-> *C · LoRa · Mesh Networking (planned) · Cryptography*
+> *C++ · LoRa · Cryptography*
 
 ## Interests
 
